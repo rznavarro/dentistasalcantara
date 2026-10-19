@@ -1,0 +1,6 @@
+{
+  "name": "Dentistas Alcántara - Clínica Dental Las Condes",
+  "description": "Clínica dental en Las Condes desde 1995. Urgencias dentales todos los días, incluso festivos. Implantes, ortodoncia, bruxismo y odontopediatría. Metro Alcántara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
